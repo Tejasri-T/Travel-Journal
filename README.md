@@ -44,7 +44,7 @@ Responsive layout
 📦 Installation & Setup
 
 Clone the repository:
-git clone https://github.com/your-username/travel-journal.git
+git clone https://github.com/Tejasri-T/travel-journal.git
 
 Go to the project folder:
 cd travel-journal
