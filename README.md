@@ -16,7 +16,7 @@ A simple and responsive Travel Journal built with React. It displays travel loca
 - CSS or Tailwind
 
 ## Project Structure
-'''
+```
 📦 travel-journal
  ┣ 📂components
  ┃ ┣ 📜Entry.jsx
@@ -35,7 +35,7 @@ A simple and responsive Travel Journal built with React. It displays travel loca
  ┣ 📜package.json
  ┣ 📜README.md
  ┗ 📜vite.config.js
-'''
+```
 ## Installation
 1. Clone the repository:
    git clone https://github.com/Tejasri-T/travel-journal.git
