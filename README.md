@@ -21,6 +21,7 @@ Responsive layout
 
 📂 Project Structure
 
+```
 📦 travel-journal
  ┣ 📂components
  ┃ ┣ 📜Entry.jsx
@@ -39,7 +40,7 @@ Responsive layout
  ┣ 📜package.json
  ┣ 📜README.md
  ┗ 📜vite.config.js
-
+```
 
 📦 Installation & Setup
 
